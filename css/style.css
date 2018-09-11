@@ -1,0 +1,21 @@
+.box{
+  margin-top:10em;
+  border: 1em;
+  border-radius:0.4em;
+  box-sizing: border-box;
+  width:30%;
+  background-color: white;
+}
+.center {
+    margin: auto;
+    width: 30%;
+    border: 3px solid green;
+    padding: 0.6em;
+    background: black;
+}
+.text{
+  text-align:center;
+}
+.butts{
+  padding: 0.6em;
+}
